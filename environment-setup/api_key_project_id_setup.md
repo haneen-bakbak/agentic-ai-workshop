@@ -23,5 +23,4 @@
 
     ![Api Key Show](/environment-setup/assets/copy-api-key.png)  
 
-7. Return to the Watsonx AI **homepage** and open **Agent Lab** to start building your agent. 
-![Agent Lab](/environment-setup/assets/agent-lab.png) 
+
