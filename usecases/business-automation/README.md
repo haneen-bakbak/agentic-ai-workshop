@@ -58,5 +58,5 @@ You can find step-by-step instructions here :
 
 ## Demo Video
 A video demo of the solution is below:
-https://github.ibm.com/Haneen-Bakbak/agentic-ai-workshop/blob/main/usecases/business-automation/video/Final%20Agentic%20Bootcamp%20Video.mp4
+https://github.com/haneen-bakbak/agentic-ai-workshop/blob/main/usecases/business-automation/video/Final%20Agentic%20Bootcamp%20Video.mp4
 

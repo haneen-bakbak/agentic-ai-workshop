@@ -51,9 +51,6 @@ Select the service listed with "Type" = "watsonx.ai Runtime" and click **Associa
 
 ![select-runtime-service](assets/select-runtime-service.png)
 
-**Note:** If you can't find the service, remove all filters from the "Locations" dropdown. If you see 2+ Watson Machine Learning services, select the one where "Group" = the same *environment* name of the instance. The *environment* name can be found on https://techzone.ibm.com/my/reservations. 
-
-![techzone](assets/techzone.png)
 
 
 Time to get started with your first use case!
