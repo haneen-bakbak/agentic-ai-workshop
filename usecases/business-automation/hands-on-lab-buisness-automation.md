@@ -32,7 +32,7 @@ The sales department of ABC Motor Corp, an automotive large player, when prepari
 
 ## Agent Lab - watsonx.ai
 
->**Note:** Before starting the Agent creation, ensure you have generated your API key of watsonx.ai instance. 
+>**Note:** Before starting the Agent creation, ensure you [followed these steps](/environment-setup/access-env.md#watsonxai-environment) to access your watsonx.ai environment. You should have also [created a new project](/environment-setup/create-project.md) and [generated your API key](/environment-setup/create-IBMid.md) of watsonx.ai instance.  
 
 We will create one agent **Comparison Agent** in watsonx.ai's Agent Lab as part of this setup:  
 
@@ -95,7 +95,12 @@ Once the agent is created.
 ![Comparison Agent 4](assets/image44.0.2.png)
 6. Once a key is created, navigate back to deployment page. Click on "Reload".
 ![Comparison Agent 4](assets/image44.1.png)
-7. After clicking the deployment button make sure your Targeted deployment space has been selected and completed if not please select it.(marked as 1), click Deploy to deploy the agent (marked as 2)
+7. If you do not see a deployment space available, go ahead and create a new deployment space
+![Comparison Agent 4](assets/new-deploy.png)
+8. Provide an appropriate name for your deployment space, assign it to itzcos storage and itzml Machine Learning service
+![Comparison Agent 4](assets/create-deployment.png)
+9. Once a deployment is created, navigate back to deployment page. Click on "Reload".
+10. After clicking the deployment button make sure your Targeted deployment space has been selected and completed if not please select it.(marked as 1), click Deploy to deploy the agent (marked as 2)
 ![Comparison Agent 5](assets/config_CA_5.png)
 
 > **YOU DID IT! you just created and deployed your first AI Agent.**
@@ -126,6 +131,7 @@ To deploy your agent on Orchestrate, follow the steps below:
 Then let's go to Orchestrate and create other agent and import this agent in that.
 
 ## Orchestrate Agent
+>**Note:** Before starting the Orchestrate Agent portion of the lab, ensure you [followed these steps](/environment-setup/access-env.md#watsonx-orchestrate-environment) to access your watsonx Orchestrate environment. 
 
 In Orchestrate, we will create our main agent, as outlined below:
 
