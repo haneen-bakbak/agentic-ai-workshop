@@ -24,3 +24,10 @@
     ![Api Key Show](/environment-setup/assets/copy-api-key.png)  
 
 
+Great! Up to this point, you should have the following complete: 
+1. [Created your IBMid](create-IBMid.md)
+2. [Accessed your class instance](access-env.md)
+3. [Finished setting up your first project](create-project.md)
+4. [Created your API key](api_key_project_id_setup.md)
+
+You are ready to start the [hands on lab](/usecases/business-automation/hands-on-lab-buisness-automation.md)!
