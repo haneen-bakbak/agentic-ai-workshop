@@ -52,5 +52,4 @@ Select the service listed with "Type" = "watsonx.ai Runtime" and click **Associa
 ![select-runtime-service](assets/select-runtime-service.png)
 
 
-
-Time to get started with your first use case!
+If you haven't already, please go ahead and create an [IBM Cloud API key](./api_key_project_id_setup.md) before starting the lab! 
