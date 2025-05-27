@@ -13,7 +13,7 @@ It is important we create a project in the right environment, or else it will ca
 
 ### 1. Log into watsonx<a name="log-in-to-watsonx"></a>
 ---
-Follow these steps to open up your [watsonx.ai environment](/environment-setup/access-env.md#watsonxai-environment)  (this should be in an incognito tab). 
+Follow these steps to open up your [watsonx.ai environment](/environment-setup/access-env.md#watsonxai-environment)  (this should be in an incognito tab). The watsonx.ai environment should be opened on the following link https://dataplatform.cloud.ibm.com/wx/home?context=wx. 
 
 ### 2. Create a new project<a name="new-project"></a>
 ---
@@ -52,5 +52,4 @@ Select the service listed with "Type" = "watsonx.ai Runtime" and click **Associa
 ![select-runtime-service](assets/select-runtime-service.png)
 
 
-
-Time to get started with your first use case!
+If you haven't already, please go ahead and create an [IBM Cloud API key](./api_key_project_id_setup.md) before starting the lab! 
